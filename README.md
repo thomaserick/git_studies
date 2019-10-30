@@ -1,2 +1,1 @@
-# git_studies
-Studies using Git
+# Getting Started Git
